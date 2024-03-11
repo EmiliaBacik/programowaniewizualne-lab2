@@ -60,7 +60,6 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(69, 23);
             textBox1.TabIndex = 2;
-            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // label1
             // 
@@ -70,7 +69,6 @@
             label1.Size = new Size(45, 15);
             label1.TabIndex = 3;
             label1.Text = "Cena zł";
-            label1.Click += label1_Click;
             // 
             // Form1
             // 
